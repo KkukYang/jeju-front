@@ -11,6 +11,7 @@
 
 ## Stack
 * **Front-end** : React, Redux, Hooks, JavaScript, Node.js, react-router-dom, Axios, react-daum-postcode, HTML5, CSS, GSAP, Wow.js, Toast UI Editor, Material-ui, BootStrap4, mdbootstrap
+* **Back-end** [Back-end 저장소](https://github.com/KkukYang/jeju-back "back")
 * **Open API** : Naver Login, Google Login, Kakao map api
 * **Tool** : VSCode, TortoiseGit, SourceTree
 
